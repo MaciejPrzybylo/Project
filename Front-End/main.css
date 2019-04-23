@@ -1,0 +1,13 @@
+footer{
+background-image: url(img/foot.jpeg); 
+display: block;
+position: absolute;
+bottom: 0;
+width: 100%;
+}
+#podpis {
+display: block;
+position: absolute;
+bottom: 0;
+right: 0;
+}
